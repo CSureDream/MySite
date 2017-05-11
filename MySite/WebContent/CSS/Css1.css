@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+
+.q {
+	color: blue;
+	border-top-width: 15px;
+	border-style: inset;
+	border-color: red;
+	border-left-width: 10px;
+	border-bottom-width: 15px;
+	border-right-width: 10px;
+}
+
+#id001 {
+	color: blue;
+	border-top-width: 15px;
+	border-style: inset;
+	border-color: yellow;
+	border-left-width: 15px;
+	border-bottom-width: 15px;
+	border-right-width: 15px;
+}
+
+#id002 {
+	color: red;
+	border-top-width: 10px;
+	border-top-width: 10px;
+	border-style: dotted;
+	border-color: blue;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+}
+
+#id003 {
+	color: red;
+	border-top-width: 10px;
+	border-style: inset;
+	border-color: blue;
+	border-left-width: 10px;
+	border-bottom-width: 10px;
+	border-right-width: 10px;
+}
+
+b {
+	font-size: 80%;
+}
+
+a:LINK {
+	color: red;
+}
+
+a:VISITED {
+	color: black;
+}
+
+a:ACTIVE {
+	color: blue
+}
+
+a:HOVER {
+	color: yellow;
+}
